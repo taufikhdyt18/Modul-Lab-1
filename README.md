@@ -191,7 +191,7 @@ Simpan hasil kerja dalam file Lat1_10.php, lalu simpulkan apa perbedaan dari kee
 
 •	Nilai $myNumber berubah setelah fungsi dijalankan karena hasil dari fungsi tersebut disalin kembali ke dalam variabel tersebut. Sebelumnya, nilai $myNumber adalah 0 dan setelah dijalankan fungsi, nilainya menjadi 7.
 
-###Latihan 10
+### Latihan 10
 
 ![image](ss_modul1/code10.png)
 
